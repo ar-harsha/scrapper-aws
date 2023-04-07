@@ -1,0 +1,2 @@
+# scrapper-aws
+beansalk-deployment
